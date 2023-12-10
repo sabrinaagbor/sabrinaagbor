@@ -1,4 +1,4 @@
-<h1> Nice to meet you, I'm<a href="https://linkedin.com/in/sabrina-agbor"> Sabrina!</a>☺</h1>
+<h1> Nice to meet you, I'm Sabrina, an<a href="https://linkedin.com/in/sabrina-agbor"> IT Professional!</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
